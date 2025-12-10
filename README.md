@@ -1,6 +1,8 @@
 # 🌿 Plant Disease Recognition System
 
 An AI-powered web application that identifies plant diseases from leaf images using deep learning.
+Live demo: https://plant-village-disease-detection.onrender.com
+
 
 ![Plant Disease Recognition](CMD.jpg)
 
