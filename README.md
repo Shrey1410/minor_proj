@@ -48,10 +48,3 @@ streamlit run main.py
 - **Classes**: 38 disease categories
 - **Input Size**: 224x224 pixels
 
-## 📝 License
-
-MIT License
-
-## 🤝 Contributing
-
-Pull requests are welcome!
